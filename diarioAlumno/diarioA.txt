@@ -1,1 +1,1 @@
-Aquí viene tu diario
+Dia 1: Empezando con Git y Github
